@@ -35,24 +35,38 @@ These are commands the user might use to quit.
 Some synonyms and easy corrections.
 
 ```
-[typed: "dont", translation: "don't"]
-[typed: "cant", translation: "can't"]
-[typed: "wont", translation: "won't"]
-[typed: "recollect", translation: "remember"]
-[typed: "recall", translation: "remember"]
-[typed: "dreamt", translation: "dreamed"]
-[typed: "dreams", translation: "dream"]
-[typed: "maybe", translation: "perhaps"]
-[typed: "certainly", translation: "yes"]
-[typed: "machine", translation: "computer"]
-[typed: "machines", translation: "computer"]
-[typed: "computers", translation: "computer"]
-[typed: "were", translation: "was"]
-[typed: "you're", translation: "you are"]
-[typed: "i'm", translation: "i am"]
-[typed: "same", translation: "alike"]
-[typed: "identical", translation: "alike"]
-[typed: "equivalent", translation: "alike"]
+[pretyped: "dont", pretranslation: "don't"]
+[pretyped: "cant", pretranslation: "can't"]
+[pretyped: "wont", pretranslation: "won't"]
+[pretyped: "recollect", pretranslation: "remember"]
+[pretyped: "recall", pretranslation: "remember"]
+[pretyped: "dreamt", pretranslation: "dreamed"]
+[pretyped: "dreams", pretranslation: "dream"]
+[pretyped: "maybe", pretranslation: "perhaps"]
+[pretyped: "certainly", pretranslation: "yes"]
+[pretyped: "machine", pretranslation: "computer"]
+[pretyped: "machines", pretranslation: "computer"]
+[pretyped: "computers", pretranslation: "computer"]
+[pretyped: "were", pretranslation: "was"]
+[pretyped: "you're", pretranslation: "you are"]
+[pretyped: "i'm", pretranslation: "i am"]
+[pretyped: "same", pretranslation: "alike"]
+[pretyped: "identical", pretranslation: "alike"]
+[pretyped: "equivalent", pretranslation: "alike"]
+```
+
+These are pronouns and tenses to "rotate" for responses.
+
+```
+[posttyped: "am", posttranslation: "are"]
+[posttyped: "your", posttranslation: "my"]
+[posttyped: "me", posttranslation: "you"]
+[posttyped: "myself", posttranslation: "yourself"]
+[posttyped: "yourself", posttranslation: "myself"]
+[posttyped: "i", posttranslation: "you"]
+[posttyped: "you", posttranslation: "I"]
+[posttyped: "my", posttranslation: "your"]
+[posttyped: "i'm", posttranslation: "you are"]
 ```
 
 
