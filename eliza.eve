@@ -69,4 +69,38 @@ These are pronouns and tenses to "rotate" for responses.
 [posttyped: "i'm", posttranslation: "you are"]
 ```
 
+Assorted synonyms to simplify the process.
+
+```
+[root: "be", synonym: "am"]
+[root: "be", synonym: "is"]
+[root: "be", synonym: "are"]
+[root: "be", synonym: "was"]
+[root: "belief", synonym: "feel"]
+[root: "belief", synonym: "think"]
+[root: "belief", synonym: "believe"]
+[root: "belief", synonym: "wish"]
+[root: "cannot", synonym: "can't"]
+[root: "desire", synonym: "want"]
+[root: "desire", synonym: "need"]
+[root: "everyone", synonym: "everybody"]
+[root: "everyone", synonym: "nobody"]
+[root: "everyone", synonym: "noone"]
+[root: "family", synonym: "mother"]
+[root: "family", synonym: "mom"]
+[root: "family", synonym: "father"]
+[root: "family", synonym: "dad"]
+[root: "family", synonym: "sister"]
+[root: "family", synonym: "brother"]
+[root: "family", synonym: "wife"]
+[root: "family", synonym: "children"]
+[root: "family", synonym: "child"]
+[root: "happy", synonym: "elated"]
+[root: "happy", synonym: "glad"]
+[root: "happy", synonym: "better"]
+[root: "sad", synonym: "unhappy"]
+[root: "sad", synonym: "depressed"]
+[root: "sad", synonym: "sick"]
+```
+
 
