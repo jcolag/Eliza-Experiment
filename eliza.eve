@@ -25,11 +25,11 @@ The final comments are useful, as well.
 These are commands the user might use to quit.
 
 ```
-[quit: "bye"]
-[quit: "goodbye"]
-[quit: "done"]
-[quit: "exit"]
-[quit: "quit"]
+[quit: "bye", index: 0]
+[quit: "goodbye", index: 1]
+[quit: "done", index: 2]
+[quit: "exit", index: 3]
+[quit: "quit", index: 4]
 ```
 
 Some synonyms and easy corrections.
@@ -101,6 +101,18 @@ Assorted synonyms to simplify the process.
 [root: "sad", synonym: "unhappy"]
 [root: "sad", synonym: "depressed"]
 [root: "sad", synonym: "sick"]
+```
+
+What to say when there's nothing else available.
+
+```
+[reframe: "I'm not sure I understand you fully.", index: 0]
+[reframe: "Please go on.", index: 1]
+[reframe: "What does that suggest to you?", index: 2]
+[reframe: "Do you feel strongly about discussing such things?", index: 3]
+[reframe: "That is interesting.  Please continue.", index: 4]
+[reframe: "Tell me more about that.", index: 5]
+[reframe: "Does talking about this bother you?", index: 6]
 ```
 
 
