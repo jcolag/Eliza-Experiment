@@ -115,4 +115,13 @@ What to say when there's nothing else available.
 [reframe: "Does talking about this bother you?", index: 6]
 ```
 
+Things to say in response to apologetic comments.
+
+```
+[sorry: "Please don't apologise.", index: 0]
+[sorry: "Apologies are not necessary.", index: 1]
+[sorry: "I've told you that apologies are not required.", index: 2]
+[sorry: "It did not bother me.  Please continue.", index: 3]
+```
+
 
