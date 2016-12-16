@@ -124,4 +124,16 @@ Things to say in response to apologetic comments.
 [sorry: "It did not bother me.  Please continue.", index: 3]
 ```
 
+Response templates to the user claiming to remember something.
+
+```
+[iremember: "Do you often think of (2)?", index: 0]
+[iremember: "Does thinking of (2) bring anything else to mind?", index: 1]
+[iremember: "What else do you recollect?", index: 2]
+[iremember: "Why do you remember (2) just now?", index: 3]
+[iremember: "What in the present situation reminds you of (2)?", index: 4]
+[iremember: "What is the connection between me and (2)?", index: 5]
+[iremember: "What else does (2) remind you of?", index: 6]
+```
+
 
