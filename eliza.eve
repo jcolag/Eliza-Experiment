@@ -136,4 +136,14 @@ Response templates to the user claiming to remember something.
 [iremember: "What else does (2) remind you of?", index: 6]
 ```
 
+Response templates to references to ELIZA's memory.
+
+```
+[eremember: "Did you think I would forget (2) ?", index: 0]
+[eremember: "Why do you think I should recall (2) now ?", index: 1]
+[eremember: "What about (2) ?", index: 2]
+[eremember: "goto what", index: 3]
+[eremember: "You mentioned (2) ?", index: 4]
+```
+
 
