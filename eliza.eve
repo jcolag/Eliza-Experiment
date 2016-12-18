@@ -146,4 +146,14 @@ Response templates to references to ELIZA's memory.
 [eremember: "You mentioned (2) ?", index: 4]
 ```
 
+Response templates to direct questions about memory.
+
+```
+[doremember: "Did you think I would forget (2) ?", index: 0]
+[doremember: "Why do you think I should recall (2) now ?", index: 1]
+[doremember: "What about (2) ?", index: 2]
+[doremember: "goto what", index: 3]
+[doremember: "You mentioned (2) ?", index: 4]
+```
+
 
