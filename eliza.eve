@@ -156,4 +156,12 @@ Response templates to direct questions about memory.
 [doremember: "You mentioned (2) ?", index: 4]
 ```
 
+Response templates to suggesting that or asking if ELIZA has forgotten something.
+
+```
+[eforget: "How could I forget (2) ?", index: 0]
+[eforget: "What about (2) should I remember ?", index: 1]
+[eforget: "*you*", index: 2]
+```
+
 
