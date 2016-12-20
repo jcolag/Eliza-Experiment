@@ -164,4 +164,16 @@ Response templates to suggesting that or asking if ELIZA has forgotten something
 [eforget: "*you*", index: 2]
 ```
 
+Responses to the user claiming to forget something.
+
+```
+[iforget: "Can you think of why you might forget (2) ?", index: 0]
+[iforget: "Why can't you remember (2) ?", index: 1]
+[iforget: "How often do you think of (2) ?", index: 2]
+[iforget: "Does it bother you to forget that ?", index: 3]
+[iforget: "Could it be a mental block ?", index: 4]
+[iforget: "Are you generally forgetful ?", index: 5]
+[iforget: "Do you think you are suppressing (2) ?", index: 6]
+```
+
 
