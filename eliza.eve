@@ -176,4 +176,15 @@ Responses to the user claiming to forget something.
 [iforget: "Do you think you are suppressing (2) ?", index: 6]
 ```
 
+Response templates for the user accusing ELIZA of forgetting something.
+
+```
+[eforget: "Why do you ask ?", index: 0]
+[eforget: "Are you sure you told me ?", index: 1]
+[eforget: "Would it bother you if I forgot (2) ?", index: 2]
+[eforget: "Why should I recall (2) just now ?", index: 3]
+[eforget: "Tell me more about (2).", index: 4]
+[eforget: "*what*", index: 5]
+```
+
 
