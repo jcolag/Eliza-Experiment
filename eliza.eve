@@ -187,4 +187,16 @@ Response templates for the user accusing ELIZA of forgetting something.
 [eforget: "*what*", index: 5]
 ```
 
+Responses for the user mentioning something conditionally.
+
+```
+[if: "Do you think it's likely that (2) ?", index: 0]
+[if: "Do you wish that (2) ?", index: 1]
+[if: "What do you know about (2) ?", index: 2]
+[if: "Really, if (2) ?", index: 3]
+[if: "What would you do if (2) ?", index: 4]
+[if: "But what are the chances that (2) ?", index: 5]
+[if: "What does this speculation lead to ?", index: 6]
+```
+
 
