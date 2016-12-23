@@ -199,4 +199,13 @@ Responses for the user mentioning something conditionally.
 [if: "What does this speculation lead to ?", index: 6]
 ```
 
+Responses to comments having dreams.
+
+```
+[idreamed: "Really, (2) ?", index: 0]
+[idreamed: "Have you ever fantasized (2) while you were awake ?", index: 1]
+[idreamed: "Have you ever dreamed (2) before ?", index: 2]
+[idreamed: "*dream*", index: 3]
+```
+
 
