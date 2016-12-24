@@ -208,4 +208,13 @@ Responses to comments having dreams.
 [idreamed: "*dream*", index: 3]
 ```
 
+Reponses to comments about dreams in general.
+
+```
+[dream: "What does that dream suggest to you ?", index: 0]
+[dream: "Do you dream often ?", index: 1]
+[dream: "What persons appear in your dreams ?", index: 2]
+[dream: "Do you believe that dreams have something to do with your problem ?", index: 3]
+```
+
 
