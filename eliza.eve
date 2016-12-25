@@ -9,7 +9,7 @@ We need comments to initiate the conversation.
 ```
 [initial: "How do you do.  Please tell me your problem.", index: 0]
 [initial: "Please tell me what's been bothering you.", index: 1]
-[initial: "Is something troubling you ?", index: 2]
+[initial: "Is something troubling you?", index: 2]
 ```
 
 The final comments are useful, as well.
@@ -19,7 +19,7 @@ The final comments are useful, as well.
 [final: "Goodbye.  This was really a nice talk.", index: 1]
 [final: "Goodbye.  I'm looking forward to our next session.", index: 2]
 [final: "This was a good session, wasn't it -- but time is over now.   Goodbye.", index: 3]
-[final: "Maybe we could discuss this moreover in our next session ?   Goodbye.", index: 4]
+[final: "Maybe we could discuss this moreover in our next session?   Goodbye.", index: 4]
 ```
 
 These are commands the user might use to quit.
@@ -139,50 +139,50 @@ Response templates to the user claiming to remember something.
 Response templates to references to ELIZA's memory.
 
 ```
-[eremember: "Did you think I would forget (2) ?", index: 0]
-[eremember: "Why do you think I should recall (2) now ?", index: 1]
-[eremember: "What about (2) ?", index: 2]
+[eremember: "Did you think I would forget (2)?", index: 0]
+[eremember: "Why do you think I should recall (2) now?", index: 1]
+[eremember: "What about (2)?", index: 2]
 [eremember: "goto what", index: 3]
-[eremember: "You mentioned (2) ?", index: 4]
+[eremember: "You mentioned (2)?", index: 4]
 ```
 
 Response templates to direct questions about memory.
 
 ```
-[doremember: "Did you think I would forget (2) ?", index: 0]
-[doremember: "Why do you think I should recall (2) now ?", index: 1]
-[doremember: "What about (2) ?", index: 2]
+[doremember: "Did you think I would forget (2)?", index: 0]
+[doremember: "Why do you think I should recall (2) now?", index: 1]
+[doremember: "What about (2)?", index: 2]
 [doremember: "goto what", index: 3]
-[doremember: "You mentioned (2) ?", index: 4]
+[doremember: "You mentioned (2)?", index: 4]
 ```
 
 Response templates to suggesting that or asking if ELIZA has forgotten something.
 
 ```
-[eforget: "How could I forget (2) ?", index: 0]
-[eforget: "What about (2) should I remember ?", index: 1]
+[eforget: "How could I forget (2)?", index: 0]
+[eforget: "What about (2) should I remember?", index: 1]
 [eforget: "*you*", index: 2]
 ```
 
 Responses to the user claiming to forget something.
 
 ```
-[iforget: "Can you think of why you might forget (2) ?", index: 0]
-[iforget: "Why can't you remember (2) ?", index: 1]
-[iforget: "How often do you think of (2) ?", index: 2]
-[iforget: "Does it bother you to forget that ?", index: 3]
-[iforget: "Could it be a mental block ?", index: 4]
-[iforget: "Are you generally forgetful ?", index: 5]
-[iforget: "Do you think you are suppressing (2) ?", index: 6]
+[iforget: "Can you think of why you might forget (2)?", index: 0]
+[iforget: "Why can't you remember (2)?", index: 1]
+[iforget: "How often do you think of (2)?", index: 2]
+[iforget: "Does it bother you to forget that?", index: 3]
+[iforget: "Could it be a mental block?", index: 4]
+[iforget: "Are you generally forgetful?", index: 5]
+[iforget: "Do you think you are suppressing (2)?", index: 6]
 ```
 
 Response templates for the user accusing ELIZA of forgetting something.
 
 ```
-[eforget: "Why do you ask ?", index: 0]
-[eforget: "Are you sure you told me ?", index: 1]
-[eforget: "Would it bother you if I forgot (2) ?", index: 2]
-[eforget: "Why should I recall (2) just now ?", index: 3]
+[eforget: "Why do you ask?", index: 0]
+[eforget: "Are you sure you told me?", index: 1]
+[eforget: "Would it bother you if I forgot (2)?", index: 2]
+[eforget: "Why should I recall (2) just now?", index: 3]
 [eforget: "Tell me more about (2).", index: 4]
 [eforget: "*what*", index: 5]
 ```
@@ -190,31 +190,31 @@ Response templates for the user accusing ELIZA of forgetting something.
 Responses for the user mentioning something conditionally.
 
 ```
-[if: "Do you think it's likely that (2) ?", index: 0]
-[if: "Do you wish that (2) ?", index: 1]
-[if: "What do you know about (2) ?", index: 2]
-[if: "Really, if (2) ?", index: 3]
-[if: "What would you do if (2) ?", index: 4]
-[if: "But what are the chances that (2) ?", index: 5]
-[if: "What does this speculation lead to ?", index: 6]
+[if: "Do you think it's likely that (2)?", index: 0]
+[if: "Do you wish that (2)?", index: 1]
+[if: "What do you know about (2)?", index: 2]
+[if: "Really, if (2)?", index: 3]
+[if: "What would you do if (2)?", index: 4]
+[if: "But what are the chances that (2)?", index: 5]
+[if: "What does this speculation lead to?", index: 6]
 ```
 
 Responses to comments having dreams.
 
 ```
-[idreamed: "Really, (2) ?", index: 0]
-[idreamed: "Have you ever fantasized (2) while you were awake ?", index: 1]
-[idreamed: "Have you ever dreamed (2) before ?", index: 2]
+[idreamed: "Really, (2)?", index: 0]
+[idreamed: "Have you ever fantasized (2) while you were awake?", index: 1]
+[idreamed: "Have you ever dreamed (2) before?", index: 2]
 [idreamed: "*dream*", index: 3]
 ```
 
 Reponses to comments about dreams in general.
 
 ```
-[dream: "What does that dream suggest to you ?", index: 0]
-[dream: "Do you dream often ?", index: 1]
-[dream: "What persons appear in your dreams ?", index: 2]
-[dream: "Do you believe that dreams have something to do with your problem ?", index: 3]
+[dream: "What does that dream suggest to you?", index: 0]
+[dream: "Do you dream often?", index: 1]
+[dream: "What persons appear in your dreams?", index: 2]
+[dream: "Do you believe that dreams have something to do with your problem?", index: 3]
 ```
 
 
