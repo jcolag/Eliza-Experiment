@@ -217,4 +217,15 @@ Reponses to comments about dreams in general.
 [dream: "Do you believe that dreams have something to do with your problem?", index: 3]
 ```
 
+Responses to hedging.
+
+```
+[perhaps: "You don't seem quite certain.", index: 0]
+[perhaps: "Why the uncertain tone?", index: 1]
+[perhaps: "Can't you be more positive?", index: 2]
+[perhaps: "You aren't sure?", index: 3]
+[perhaps: "Don't you know?", index: 4]
+[perhaps: "How likely, would you estimate?", index: 5]
+```
+
 
