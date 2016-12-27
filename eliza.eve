@@ -228,4 +228,11 @@ Responses to hedging.
 [perhaps: "How likely, would you estimate?", index: 5]
 ```
 
+Responses to anything regarding a name.
+
+```
+[name: "I am not interested in names.", index: 0]
+[name: "I've told you before, I don't care about names -- please continue.", index: 1]
+```
+
 
