@@ -235,4 +235,10 @@ Responses to anything regarding a name.
 [name: "I've told you before, I don't care about names -- please continue.", index: 1]
 ```
 
+Reponses to foreign languages.
+
+```
+[xforeign: "I speak only English."]
+```
+
 
