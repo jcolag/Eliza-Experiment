@@ -239,6 +239,8 @@ Reponses to foreign languages.
 
 ```
 [xforeign: "I speak only English."]
+[deutsch: "I told you before, I don't understand German.", index: 0]
+[deutsch: "*xforeign*", index: 1]
 ```
 
 
