@@ -241,6 +241,8 @@ Reponses to foreign languages.
 [xforeign: "I speak only English."]
 [deutsch: "I told you before, I don't understand German.", index: 0]
 [deutsch: "*xforeign*", index: 1]
+[francais: "I told you before, I don't understand French.", index: 0]
+[francais: "*xforeign*", index: 1]
 ```
 
 
