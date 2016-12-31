@@ -243,6 +243,8 @@ Reponses to foreign languages.
 [deutsch: "*xforeign*", index: 1]
 [francais: "I told you before, I don't understand French.", index: 0]
 [francais: "*xforeign*", index: 1]
+[italiano: "I told you before, I don't understand Italian.", index: 0]
+[italiano: "*xforeign*", index: 1]
 ```
 
 
