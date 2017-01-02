@@ -249,4 +249,11 @@ Reponses to foreign languages.
 [espanol: "*xforeign*", index: 1]
 ```
 
+Greetings.
+
+```
+[hello: "How do you do.  Please state your problem.", index: 0]
+[hello: "Hi.  What seems to be your problem ?", index: 1]
+```
+
 
