@@ -253,7 +253,19 @@ Greetings.
 
 ```
 [hello: "How do you do.  Please state your problem.", index: 0]
-[hello: "Hi.  What seems to be your problem ?", index: 1]
+[hello: "Hi.  What seems to be your problem?", index: 1]
+```
+
+Responses to mentions of computers.
+
+```
+[computer: "Do computers worry you?", index: 0]
+[computer: "Why do you mention computers?", index: 1]
+[computer: "What do you think machines have to do with your problem?", index: 2]
+[computer: "Don't you think computers can help people?", index: 3]
+[computer: "What about machines worries you?", index: 4]
+[computer: "What do you think about machines?", index: 5]
+[computer: "You don't think I am a computer program, do you?", index: 6]
 ```
 
 
