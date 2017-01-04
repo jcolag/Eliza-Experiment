@@ -268,4 +268,13 @@ Responses to mentions of computers.
 [computer: "You don't think I am a computer program, do you?", index: 6]
 ```
 
+Questions on references to identity.
+
+```
+[ami: "Do you believe you are (2)?", index: 0]
+[ami: "Would you want to be (2)?", index: 1]
+[ami: "Do you wish I would tell you you are (2)?", index: 2]
+[ami: "What would it mean if you were (2)?", index: 3]
+[ami: "*what*", index: 4]
+```
 
