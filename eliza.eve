@@ -278,3 +278,11 @@ Questions on references to identity.
 [ami: "*what*", index: 4]
 ```
 
+Responses to just the word "am."
+
+```
+[am: "Why do you say 'am'?", index: 0]
+[am: "I don't understand that.", index: 1]
+```
+
+
