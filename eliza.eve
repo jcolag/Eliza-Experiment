@@ -285,4 +285,16 @@ Responses to just the word "am."
 [am: "I don't understand that.", index: 1]
 ```
 
+Responses to "are you..." questions.
+
+```
+[areyou: "Why are you interested in whether I am (2) or not?", index: 0]
+[areyou: "Would you prefer if I weren't (2)?", index: 1]
+[areyou: "Perhaps I am (2) in your fantasies.", index: 2]
+[areyou: "Do you sometimes think I am (2)?", index: 3]
+[areyou: "Would it matter to you?", index: 4]
+[areyou: "What if I were (2)?", index: 5]
+[areyou: "*what*", index: 6]
+```
+
 
