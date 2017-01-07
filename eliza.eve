@@ -297,4 +297,15 @@ Responses to "are you..." questions.
 [areyou: "*what*", index: 6]
 ```
 
+And to the word "are" in general.
+
+```
+[are: "Did you think they might not be (2)?", index: 0]
+[are: "Would you like it if they were not (2)?", index: 1]
+[are: "What if they were not (2)?", index: 2]
+[are: "Are they always (2)?", index: 3]
+[are: "Possibly they are (2).", index: 4]
+[are: "Are you positive they are (2)?", index: 5]
+```
+
 
