@@ -308,4 +308,15 @@ And to the word "are" in general.
 [are: "Are you positive they are (2)?", index: 5]
 ```
 
+Referring to some aspect of ELIZA.
+
+```
+[your: "Why are you concerned over my (2)?", index: 0]
+[your: "What about your own (2)?", index: 1]
+[your: "Are you worried about someone else's (2)?", index: 2]
+[your: "Really, my (2)?", index: 3]
+[your: "What makes you think of my (2)?", index: 4]
+[your: "Do you want my (2)?", index: 5]
+```
+
 
