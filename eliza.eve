@@ -330,4 +330,12 @@ Responses to "was I."
 [wasi: "goto what", index: 5]
 ```
 
+Responses to the user's past.
+
+```
+[iwas: "Were you really?", index: 0]
+[iwas: "Why do you tell me you were (2) now?", index: 1]
+[iwas: "Perhaps I already know you were (2).", index: 2]
+```
+
 
