@@ -338,4 +338,14 @@ Responses to the user's past.
 [iwas: "Perhaps I already know you were (2).", index: 2]
 ```
 
+And to Eliza's past.
+
+```
+[wereyou: "Would you like to believe I was (2) ?", index: 0]
+[wereyou: "What suggests that I was (2) ?", index: 1]
+[wereyou: "What do you think ?", index: 2]
+[wereyou: "Perhaps I was (2).", index: 3]
+[wereyou: "What if I had been (2) ?", index: 4]
+```
+
 
