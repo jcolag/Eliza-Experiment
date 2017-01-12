@@ -341,11 +341,22 @@ Responses to the user's past.
 And to Eliza's past.
 
 ```
-[wereyou: "Would you like to believe I was (2) ?", index: 0]
-[wereyou: "What suggests that I was (2) ?", index: 1]
-[wereyou: "What do you think ?", index: 2]
+[wereyou: "Would you like to believe I was (2)?", index: 0]
+[wereyou: "What suggests that I was (2)?", index: 1]
+[wereyou: "What do you think?", index: 2]
 [wereyou: "Perhaps I was (2).", index: 3]
-[wereyou: "What if I had been (2) ?", index: 4]
+[wereyou: "What if I had been (2)?", index: 4]
+```
+
+Responses to desires.
+
+```
+[want: "What would it mean to you if you got (3)?", index: 0]
+[want: "Why do you want (3)?", index: 1]
+[want: "Suppose you got (3) soon.", index: 2]
+[want: "What if you never got (3)?", index: 3]
+[want: "What would getting (3) mean to you?", index: 4]
+[want: "What does wanting (3) have to do with this discussion?", index: 5]
 ```
 
 
