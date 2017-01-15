@@ -377,4 +377,12 @@ And happiness.
 [sad: "Can you explain why you are suddenly (3)?", index: 3]
 ```
 
+Responses to user's beliefs about self.
+
+```
+[ibelievei: "Do you really think so?", index: 0]
+[ibelievei: "But you are not sure you (3).", index: 1]
+[ibelievei: "Do you really doubt you (3)?", index: 2]
+```
+
 
