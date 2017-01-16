@@ -385,4 +385,14 @@ Responses to user's beliefs about self.
 [ibelievei: "Do you really doubt you (3)?", index: 2]
 ```
 
+And more immediate assertions.
+
+```
+[iam: "Is it because you are (2) that you came to me?", index: 0]
+[iam: "How long have you been (2)?", index: 1]
+[iam: "Do you believe it is normal to be (2)?", index: 2]
+[iam: "Do you enjoy being (2)?", index: 3]
+[iam: "Do you know anyone else who is (2)?", index: 4]
+```
+
 
