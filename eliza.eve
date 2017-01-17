@@ -395,4 +395,14 @@ And more immediate assertions.
 [iam: "Do you know anyone else who is (2)?", index: 4]
 ```
 
+Responses to the user expressing doubt of ability.
+
+```
+[icannot: "How do you know that you can't (3)?", index: 0]
+[icannot: "Have you tried?", index: 1]
+[icannot: "Perhaps you could (3) now.", index: 2]
+[icannot: "Do you really want to be able to (3)?", index: 3]
+[icannot: "What if you could (3)?", index: 4]
+```
+
 
