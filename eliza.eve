@@ -405,4 +405,13 @@ Responses to the user expressing doubt of ability.
 [icannot: "What if you could (3)?", index: 4]
 ```
 
+Responses to the user not doing something.
+
+```
+[idonot: "Don't you really (2)?", index: 0]
+[idonot: "Why don't you (2)?", index: 1]
+[idonot: "Do you wish to be able to (2)?", index: 2]
+[idonot: "Does that trouble you?", index: 3]
+```
+
 
