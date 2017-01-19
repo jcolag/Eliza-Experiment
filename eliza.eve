@@ -414,4 +414,13 @@ Responses to the user not doing something.
 [idonot: "Does that trouble you?", index: 3]
 ```
 
+Responses to user's feelings.
+
+```
+[ifeel: "Tell me more about such feelings.", index: 0]
+[ifeel: "Do you often feel (2)?", index: 1]
+[ifeel: "Do you enjoy feeling (2)?", index: 2]
+[ifeel: "Of what does feeling (2) remind you?", index: 3]
+```
+
 
