@@ -423,4 +423,13 @@ Responses to user's feelings.
 [ifeel: "Of what does feeling (2) remind you?", index: 3]
 ```
 
+Responses to (probably) feelings about Eliza.
+
+```
+[isomethingyou: "Perhaps in your fantasies we (2) each other.", index: 0]
+[isomethingyou: "Do you wish to (2) me ?", index: 1]
+[isomethingyou: "You seem to need to (2) me.", index: 2]
+[isomethingyou: "Do you (2) anyone else ?", index: 3]
+```
+
 
