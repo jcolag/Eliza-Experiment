@@ -427,9 +427,18 @@ Responses to (probably) feelings about Eliza.
 
 ```
 [isomethingyou: "Perhaps in your fantasies we (2) each other.", index: 0]
-[isomethingyou: "Do you wish to (2) me ?", index: 1]
+[isomethingyou: "Do you wish to (2) me?", index: 1]
 [isomethingyou: "You seem to need to (2) me.", index: 2]
-[isomethingyou: "Do you (2) anyone else ?", index: 3]
+[isomethingyou: "Do you (2) anyone else?", index: 3]
+```
+
+Responses to anything else about the user.
+
+```
+[i: "You say (1)?", index: 0]
+[i: "Can you elaborate on that?", index: 1]
+[i: "Do you say (1) for some special reason?", index: 2]
+[i: "That's quite interesting.", index: 3]
 ```
 
 
