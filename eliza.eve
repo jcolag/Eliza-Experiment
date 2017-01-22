@@ -441,4 +441,13 @@ Responses to anything else about the user.
 [i: "That's quite interesting.", index: 3]
 ```
 
+Responses to accusations to Eliza.
+
+```
+[youare: "What makes you think I am (2)?", index: 0]
+[youare: "Does it please you to believe I am (2)?", index: 1]
+[youare: "Do you sometimes wish you were (2)?", index: 2]
+[youare: "Perhaps you would like to be (2).", index: 3]
+```
+
 
