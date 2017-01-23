@@ -450,4 +450,15 @@ Responses to accusations to Eliza.
 [youare: "Perhaps you would like to be (2).", index: 3]
 ```
 
+Responses to implied reciprocal relationships.
+```
+[youme: "Why do you think I (2) you?", index: 0]
+[youme: "You like to think I (2) you -- don't you?", index: 1]
+[youme: "What makes you think I (2) you?", index: 2]
+[youme: "Really, I (2) you?", index: 3]
+[youme: "Do you wish to believe I (2) you?", index: 4]
+[youme: "Suppose I did (2) you -- what would that mean?", index: 5]
+[youme: "Does someone else believe I (2) you?", index: 6]
+```
+
 
