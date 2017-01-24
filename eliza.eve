@@ -461,4 +461,13 @@ Responses to implied reciprocal relationships.
 [youme: "Does someone else believe I (2) you?", index: 6]
 ```
 
+Responses to anything about "you."
+
+```
+[you: "We were discussing you, not me.", index: 0]
+[you: "Oh, I (2)?", index: 1]
+[you: "You're not really talking about me, are you?", index: 2]
+[you: "What are your feelings now?", index: 3]
+```
+
 
