@@ -470,4 +470,13 @@ Responses to anything about "you."
 [you: "What are your feelings now?", index: 3]
 ```
 
+Responses to "yes."
+
+```
+[yes: "You seem to be quite positive.",
+[yes: "You are sure.",
+[yes: "I see.",
+[yes: "I understand."
+```
+
 
