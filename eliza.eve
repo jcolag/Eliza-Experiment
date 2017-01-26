@@ -479,4 +479,13 @@ Responses to "yes."
 [yes: "I understand."
 ```
 
+...And "no."
+
+```
+[no: "Are you saying no just to be negative?", index: 0]
+[no: "You are being a bit negative.", index: 1]
+[no: "Why not?", index: 2]
+[no: "Why 'no'?", index: 3]
+```
+
 
