@@ -488,4 +488,16 @@ Responses to "yes."
 [no: "Why 'no'?", index: 3]
 ```
 
+Responses to mentioning things about "no one."
+
+```
+[noone: "Are you sure, no one (2)?", index: 0]
+[noone: "Surely someone (2) .", index: 1]
+[noone: "Can you think of anyone at all?", index: 2]
+[noone: "Are you thinking of a very special person?", index: 3]
+[noone: "Who, may I ask?", index: 4]
+[noone: "You have a particular person in mind, don't you?", index: 5]
+[noone: "Who do you think you are talking about?", index: 6]
+```
+
 
