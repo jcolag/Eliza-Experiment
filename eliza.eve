@@ -500,4 +500,13 @@ Responses to mentioning things about "no one."
 [noone: "Who do you think you are talking about?", index: 6]
 ```
 
+Responses to the user's family.
+
+```
+[myfamily: "Tell me more about your family.",
+[myfamily: "Who else in your family (4)?",
+[myfamily: "Your (3)?",
+[myfamily: "What else comes to your mind when you think of your (3)?"
+```
+
 
