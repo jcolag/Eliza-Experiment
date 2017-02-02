@@ -509,4 +509,17 @@ Responses to the user's family.
 [myfamily: "What else comes to your mind when you think of your (3)?"
 ```
 
+Responses to something of the user's.
+
+```
+[my: "Your (2)?", index: 0]
+[my: "Why do you say your (2)?", index: 1]
+[my: "Does that suggest anything else which belongs to you?", index: 2]
+[my: "Is it important to you that your (2)?", index: 3]
+[my: "Does that have anything to do with the fact that your (2)?", index: 4]
+[my: "Lets discuss further why your (2).", index: 5]
+[my: "Earlier you said your (2).", index: 6]
+[my: "But your (2).", index: 7]
+```
+
 
