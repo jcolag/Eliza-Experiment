@@ -473,10 +473,10 @@ Responses to anything about "you."
 Responses to "yes."
 
 ```
-[yes: "You seem to be quite positive.",
-[yes: "You are sure.",
-[yes: "I see.",
-[yes: "I understand."
+[yes: "You seem to be quite positive.", index: 0]
+[yes: "You are sure.", index: 1]
+[yes: "I see.", index: 2]
+[yes: "I understand.", index: 3]
 ```
 
 ...And "no."
@@ -503,10 +503,10 @@ Responses to mentioning things about "no one."
 Responses to the user's family.
 
 ```
-[myfamily: "Tell me more about your family.",
-[myfamily: "Who else in your family (4)?",
-[myfamily: "Your (3)?",
-[myfamily: "What else comes to your mind when you think of your (3)?"
+[myfamily: "Tell me more about your family.", index: 0]
+[myfamily: "Who else in your family (4)?", index: 1]
+[myfamily: "Your (3)?", index: 2]
+[myfamily: "What else comes to your mind when you think of your (3)?", index: 3]
 ```
 
 Responses to something of the user's.
