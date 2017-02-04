@@ -522,4 +522,12 @@ Responses to something of the user's.
 [my: "But your (2).", index: 7]
 ```
 
+Responses to asking permission.
+
+```
+[cani: "Whether or not you can (2) depends on you more than on me.", index: 0]
+[cani: "Do you want to be able to (2) ?", index: 1]
+[cani: "Perhaps you don't want to (2).", index: 2]
+```
+
 
