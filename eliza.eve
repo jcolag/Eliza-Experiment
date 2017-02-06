@@ -530,4 +530,13 @@ Responses to asking permission.
 [cani: "Perhaps you don't want to (2).", index: 2]
 ```
 
+...And whether ELIZA is able to do something.
+
+```
+[canyou: "You believe I can (2) don't you ?", index: 0]
+[canyou: "You want me to be able to (2).", index: 1]
+[canyou: "Perhaps you would like to be able to (2) yourself.", index: 2]
+[canyou: "*what*", index: 3]
+```
+
 
