@@ -526,17 +526,31 @@ Responses to asking permission.
 
 ```
 [cani: "Whether or not you can (2) depends on you more than on me.", index: 0]
-[cani: "Do you want to be able to (2) ?", index: 1]
+[cani: "Do you want to be able to (2)?", index: 1]
 [cani: "Perhaps you don't want to (2).", index: 2]
 ```
 
 ...And whether ELIZA is able to do something.
 
 ```
-[canyou: "You believe I can (2) don't you ?", index: 0]
+[canyou: "You believe I can (2) don't you?", index: 0]
 [canyou: "You want me to be able to (2).", index: 1]
 [canyou: "Perhaps you would like to be able to (2) yourself.", index: 2]
 [canyou: "*what*", index: 3]
+```
+
+Generic questions such as what...
+
+```
+[what: "Why do you ask?", index: 0]
+[what: "Does that question interest you?", index: 1]
+[what: "What is it you really want to know?", index: 2]
+[what: "Are such questions much on your mind?", index: 3]
+[what: "What answer would please you most?", index: 4]
+[what: "What do you think?", index: 5]
+[what: "What comes to mind when you ask that?", index: 6]
+[what: "Have you asked such questions before?", index: 7]
+[what: "Have you asked anyone else?", index: 8]
 ```
 
 
