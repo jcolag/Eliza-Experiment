@@ -553,4 +553,10 @@ Generic questions such as what...
 [what: "Have you asked anyone else?", index: 8]
 ```
 
+...who...
+
+```
+[who: "*what*", index: 0]
+```
+
 
