@@ -562,7 +562,13 @@ Generic questions such as what...
 ...when...
 
 ```
-[who: "*what*", index: 0]
+[when: "*what*", index: 0]
+```
+
+...where...
+
+```
+[where: "*what*", index: 0]
 ```
 
 
