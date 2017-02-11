@@ -571,4 +571,19 @@ Generic questions such as what...
 [where: "*what*", index: 0]
 ```
 
+...and how.
+
+```
+[how: "*what*", index: 0]
+```
+
+Responding to explanations.
+
+```
+[because: "Is that the real reason?", index: 0]
+[because: "Don't any other reasons come to mind?", index: 1]
+[because: "Does that reason seem to explain anything else?", index: 2]
+[because: "What other reasons might there be?", index: 3]
+```
+
 
