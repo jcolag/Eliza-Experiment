@@ -586,4 +586,14 @@ Responding to explanations.
 [because: "What other reasons might there be?", index: 3]
 ```
 
+Responding to "why don't you...?"
+
+```
+[whydontyou: "Do you believe I don't (2) ?", index: 0]
+[whydontyou: "Perhaps I will (2) in good time.", index: 1]
+[whydontyou: "Should you (2) yourself ?", index: 2]
+[whydontyou: "You want me to (2) ?", index: 3]
+[whydontyou: "*what*", index: 4]
+```
+
 
