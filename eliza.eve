@@ -571,6 +571,12 @@ Generic questions such as what...
 [where: "*what*", index: 0]
 ```
 
+...why...
+
+```
+[why: "*what*", index: 0]
+```
+
 ...and how.
 
 ```
