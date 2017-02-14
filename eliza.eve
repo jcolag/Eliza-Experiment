@@ -602,4 +602,14 @@ Responding to "why don't you...?"
 [whydontyou: "*what*", index: 4]
 ```
 
+And "why can't I...?"
+
+```
+[whycanti: "Do you think you should be able to (2) ?", index: 0]
+[whycanti: "Do you want to be able to (2) ?", index: 1]
+[whycanti: "Do you believe this will help you to (2) ?", index: 2]
+[whycanti: "Have you any idea why you can't (2) ?", index: 3]
+[whycanti: "*what*", index: 4]
+```
+
 
