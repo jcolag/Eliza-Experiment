@@ -626,4 +626,10 @@ Responding to references to "everyone."
 [everyone: "Who do you think you're talking about ?", index: 8]
 ```
 
+Same for "everybody."
+
+```
+[everybody: "*everyone*"]
+```
+
 
