@@ -635,7 +635,13 @@ Same for "everybody."
 Same for "nobody."
 
 ```
-[everybody: "*everyone*"]
+[nobody: "*everyone*"]
+```
+
+And "noone."
+
+```
+[noone: "*everyone*"]
 ```
 
 
