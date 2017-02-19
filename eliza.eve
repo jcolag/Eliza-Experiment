@@ -595,35 +595,35 @@ Responding to explanations.
 Responding to "why don't you...?"
 
 ```
-[whydontyou: "Do you believe I don't (2) ?", index: 0]
+[whydontyou: "Do you believe I don't (2)?", index: 0]
 [whydontyou: "Perhaps I will (2) in good time.", index: 1]
-[whydontyou: "Should you (2) yourself ?", index: 2]
-[whydontyou: "You want me to (2) ?", index: 3]
+[whydontyou: "Should you (2) yourself?", index: 2]
+[whydontyou: "You want me to (2)?", index: 3]
 [whydontyou: "*what*", index: 4]
 ```
 
 And "why can't I...?"
 
 ```
-[whycanti: "Do you think you should be able to (2) ?", index: 0]
-[whycanti: "Do you want to be able to (2) ?", index: 1]
-[whycanti: "Do you believe this will help you to (2) ?", index: 2]
-[whycanti: "Have you any idea why you can't (2) ?", index: 3]
+[whycanti: "Do you think you should be able to (2)?", index: 0]
+[whycanti: "Do you want to be able to (2)?", index: 1]
+[whycanti: "Do you believe this will help you to (2)?", index: 2]
+[whycanti: "Have you any idea why you can't (2)?", index: 3]
 [whycanti: "*what*", index: 4]
 ```
 
 Responding to references to "everyone."
 
 ```
-[everyone: "Really, (2) ?", index: 0]
+[everyone: "Really, (2)?", index: 0]
 [everyone: "Surely not (2).", index: 1]
-[everyone: "Can you think of anyone in particular ?", index: 2]
+[everyone: "Can you think of anyone in particular?", index: 2]
 [everyone: "Who, for example?", index: 3]
-[everyone: "Are you thinking of a very special person ?", index: 4]
-[everyone: "Who, may I ask ?", index: 5]
-[everyone: "Someone special perhaps ?", index: 6]
-[everyone: "You have a particular person in mind, don't you ?", index: 7]
-[everyone: "Who do you think you're talking about ?", index: 8]
+[everyone: "Are you thinking of a very special person?", index: 4]
+[everyone: "Who, may I ask?", index: 5]
+[everyone: "Someone special perhaps?", index: 6]
+[everyone: "You have a particular person in mind, don't you?", index: 7]
+[everyone: "Who do you think you're talking about?", index: 8]
 ```
 
 Same for "everybody."
@@ -642,6 +642,15 @@ And "noone."
 
 ```
 [noone: "*everyone*"]
+```
+
+Respond to assertions including "always."
+
+```
+[always: "Can you think of a specific example?",
+[always: "When?",
+[always: "What incident are you thinking of?",
+[always: "Really, always?"
 ```
 
 
