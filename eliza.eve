@@ -647,10 +647,14 @@ And "noone."
 Respond to assertions including "always."
 
 ```
-[always: "Can you think of a specific example?",
-[always: "When?",
-[always: "What incident are you thinking of?",
-[always: "Really, always?"
+[always: "Can you think of a specific example?", index: 0]
+[always: "When?", index: 1]
+[always: "What incident are you thinking of?", index: 2]
+[always: "Really, always?", index: 3]
+```
+
+Respond to things being alike:
+
 ```
 
 
