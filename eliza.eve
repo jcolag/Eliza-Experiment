@@ -656,5 +656,14 @@ Respond to assertions including "always."
 Respond to things being alike:
 
 ```
+[alike: "In what way?", index: 0]
+[alike: "What resemblence do you see?", index: 1]
+[alike: "What does that similarity suggest to you?", index: 2]
+[alike: "What other connections do you see?", index: 3]
+[alike: "What do you suppose that resemblence means?", index: 4]
+[alike: "What is the connection, do you suppose?", index: 5]
+[alike: "Could there really be some connection?", index: 6]
+[alike: "How?", index: 7]
+```
 
 
