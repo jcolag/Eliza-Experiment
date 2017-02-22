@@ -666,4 +666,16 @@ Respond to things being alike:
 [alike: "How?", index: 7]
 ```
 
+...And things being different.
+
+```
+[different: "How is it different?", index: 0]
+[different: "What differences do you see?", index: 1]
+[different: "What does that difference suggest to you?", index: 2]
+[different: "What other distinctions do you see?", index: 3]
+[different: "What do you suppose that disparity means?", index: 4]
+[different: "Could there be some connection, do you suppose?", index: 5]
+[different: "How?", index: 6]
+```
+
 
