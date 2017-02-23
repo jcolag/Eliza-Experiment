@@ -159,9 +159,9 @@ Response templates to direct questions about memory.
 Response templates to suggesting that or asking if ELIZA has forgotten something.
 
 ```
-[eforget: "How could I forget (2)?", index: 0]
-[eforget: "What about (2) should I remember?", index: 1]
-[eforget: "*you*", index: 2]
+[eforgot: "How could I forget (2)?", index: 0]
+[eforgot: "What about (2) should I remember?", index: 1]
+[eforgot: "*you*", index: 2]
 ```
 
 Responses to the user claiming to forget something.
